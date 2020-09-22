@@ -14,6 +14,7 @@ import './index.css';
         );
     }
 }*/
+// rewrite
 function Square(props) {
     return (
         <button
